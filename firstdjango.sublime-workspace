@@ -1,0 +1,236 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"to",
+				"to_html"
+			],
+			[
+				"ve",
+				"VehicleTypeElement"
+			],
+			[
+				"p",
+				"Pennsylvania"
+			],
+			[
+				"from",
+				"fromstate"
+			],
+			[
+				"elem",
+				"elements"
+			],
+			[
+				"find",
+				"find_element_by_xpath"
+			],
+			[
+				"web",
+				"webdriverWait"
+			],
+			[
+				"lo",
+				"loginButtonElement"
+			],
+			[
+				"pas",
+				"passFieldElement"
+			],
+			[
+				"email",
+				"emailFieldElement"
+			],
+			[
+				"login",
+				"loginButtonXpath"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Bekif/Desktop/DjangoProject",
+		"/Users/Bekif/Desktop/DjangoProject/src",
+		"/Users/Bekif/Desktop/DjangoProject/src/firstdjango"
+	],
+	"file_history":
+	[
+		"/Users/Bekif/Desktop/Gmetrix_Grader.py",
+		"/Users/Bekif/Desktop/eee.py",
+		"/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site.py",
+		"/Users/Bekif/Desktop/aa.py",
+		"/Users/Bekif/Desktop/kivy.py",
+		"/Users/Bekif/PycharmProjects/gmetrix/gmet.py",
+		"/Users/Bekif/Desktop/navigate.py",
+		"/Users/Bekif/Desktop/rand.py",
+		"/Users/Bekif/Desktop/1234.py",
+		"/Users/Bekif/Desktop/craigslist.py",
+		"/Users/Bekif/Desktop/reklam.py",
+		"/Users/Bekif/Desktop/SENIOR DESIGN PROJECT/navigate.py",
+		"/Users/Bekif/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/6667BEDC-3B4C-4199-BB47-204AF337EB5E/navigate.py",
+		"/Users/Bekif/Desktop/Projects/gmetrix.py",
+		"/Users/Bekif/Desktop/Gmet.py",
+		"/Users/Bekif/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/1DEEB832-CAEE-4CB3-A7C3-A04A18390708/Gmetrix Data.py",
+		"/Users/Bekif/Desktop/123.py",
+		"/Users/Bekif/Desktop/1234..py",
+		"/Users/Bekif/Desktop/SENIOR DESIGN PROJECT/carscom.py",
+		"/Users/Bekif/Desktop/example.py",
+		"/Users/Bekif/Desktop/sub1.py"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"kivy"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "firstdjango.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 213.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
